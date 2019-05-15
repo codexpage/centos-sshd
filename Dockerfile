@@ -1,4 +1,4 @@
-FROM centos:lastest
+FROM centos:latest
 MAINTAINER codex page
 
 RUN yum update -y
